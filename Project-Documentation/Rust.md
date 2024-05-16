@@ -27,7 +27,7 @@ This GIF illustrates the frequency response of the "Age" parameter. Notably, the
 
 ## Contributing
 
-Participation in this open-source project is not only appreciated but also actively encouraged. Both individuals with programming expertise and those without can make valuable contributions in diverse ways:
+Participation in this open-source project is not only appreciated but also actively encouraged. Both individuals with programming expertise and those without can make valuable contributions in multiple ways:
 
 #### Testing
 

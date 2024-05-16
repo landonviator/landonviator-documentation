@@ -15,7 +15,7 @@ This repo includes:
 ### How to download a build
 
 You can get a build of Bedroom Comp MkII either from my [Gumroad](https://viatordsp.gumroad.com/l/sbnuyp) post or by downloading a build artifact from the repo's GitHub actions run.
-From the [main code page](https://github.com/landonviator/viator-bedroom-comp) navigate to the _Actions_ tab, click the latest green workflow run, then grab the appropraite build from the _Articats_ section as either Mac AU, Mac VST3, or Windows VST3.
+From the [main code page](https://github.com/landonviator/viator-bedroom-comp) navigate to the `Actions` tab, click the latest green workflow run, then grab the appropraite build from the Artifacts section as either Mac AU, Mac VST3, or Windows VST3.
 
 ### Knee Parameter
 
