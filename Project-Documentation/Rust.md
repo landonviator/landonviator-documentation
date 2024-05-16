@@ -2,17 +2,16 @@
 
 ### Purpose
 
-This project aimed to develop a noise generator plugin inspired by the subtle crackle and dust of vinyl. Unlike conventional vinyl noise plugins that rely on pre-recorded audio or live capture methods, I aimed to synthesize these sounds purely through DSP techniques.
+This project focused on creating a noise generator plugin, inspired by the subtle crackles and dust sounds typical of vinyl records. In contrast to traditional vinyl noise plugins, which use pre-recorded audio or live capture methods, this project chose to synthesize these sounds entirely through DSP techniques.
 
-This repo includes:
+The [repo](https://github.com/landonviator/viator-rust) includes:
 
 - [viatordsp JUCE User Module](https://github.com/landonviator/viatordsp)
 - [Projucer Project](https://github.com/landonviator/viator-rust/blob/main/viator-rust/viator-rust.jucer) for Rust
 
 ### How to download a build
 
-You can get a build of Rust either from my [Gumroad](https://viatordsp.gumroad.com/l/zyfng) post or by downloading a build artifact from the repo's GitHub actions run.
-From the [main code page](https://github.com/landonviator/viator-rust) navigate to the _Actions_ tab, click the latest green workflow run, then grab the appropraite build from the _Articats_ section as either Mac AU, Mac VST3, or Windows VST3.
+You can obtain a build of Rust from my [Gumroad](https://viatordsp.gumroad.com/l/zyfng) post or by downloading a build artifact directly from the GitHub repository's `Actions`. Simply go to the main code [page](https://github.com/landonviator/viator-rust), select the `Actions` tab, click on the most recent successful workflow run (indicated by green), and download the appropriate build from the Artifacts section, available for Mac AU, Mac VST3, or Windows VST3.
 
 ### Drive
 
